@@ -156,7 +156,7 @@ export default function KladrivaWebsite() {
                 Chez Kladriva, nous croyons que chaque entreprise mérite une identité visuelle qui la distingue. Notre équipe de designers passionnés allie expertise technique et créativité débordante pour transformer vos idées en réalité visuelle percutante.
               </p>
               <p className="text-lg text-gray-700 mb-6">
-                Depuis notre création, nous avons accompagné des dizaines d'entreprises dans leur transformation digitale et visuelle. Notre approche centrée sur vos objectifs commerciaux nous permet de créer des designs qui ne sont pas seulement beaux, mais qui génèrent des résultats concrets.
+                Depuis notre création, nous avons accompagné des dizaines d entreprises dans leur transformation digitale et visuelle. Notre approche centrée sur vos objectifs commerciaux nous permet de créer des designs qui ne sont pas seulement beaux, mais qui génèrent des résultats concrets.
               </p>
               <p className="text-lg text-gray-700">
                 Que vous soyez une startup ambitieuse ou une entreprise établie cherchant à se réinventer, nous avons les compétences et la vision pour booster votre visibilité et marquer les esprits.
